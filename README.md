@@ -13,4 +13,4 @@
 - 💬 Ask me about Code, Photography, Design, Business Strategy & Ops, Indonesia!
 - 📫 How to reach me: TWITTER http://twitter.com/bagusisgood17 -- EMAIL bgstry@hotmail.co.id
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: I started SwiftUI 48 days ago
+- ⚡ Fun fact: I started SwiftUI 52 days ago
